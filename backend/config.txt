@@ -1,0 +1,7 @@
+PORT=9000
+USER="postgres"
+HOST="localhost"
+DATABASE="final"
+PASSWORD="Triveni@03"
+DBPORT=5432 
+SECRET="thisismysecrctekeyfhrgfgrfrty84fwir767"

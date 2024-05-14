@@ -1,0 +1,17 @@
+  .student-details {
+    width: 40%;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 40px;
+  }
+  .varying-cell {
+    width: 10%; /* or any other value you want */
+  }
+
+  
+  
+  
